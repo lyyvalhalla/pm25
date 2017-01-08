@@ -1,0 +1,2815 @@
+{
+  "type": "FeatureCollection",
+  "features": 
+    [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.6836",
+            "41.9339"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "森林路",
+          "station_code": "1098A",
+          "aqi": "362",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "53",
+          "so2_index": "18",
+          "no2": "99",
+          "no2_index": "50",
+          "co": "2.7",
+          "co_index": "27",
+          "o3": "17",
+          "o3_index": "6",
+          "o3_8h": "11",
+          "o3_8h_index": "0",
+          "pm2_5": "312",
+          "pm2_5_index": "362",
+          "pm10": "381",
+          "pm10_index": "245",
+          "longitude": "123.6836",
+          "latitude": "41.9339",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.535",
+            "41.7561"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "浑南东路",
+          "station_code": "1099A",
+          "aqi": "302",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "232",
+          "so2_index": "62",
+          "no2": "123",
+          "no2_index": "62",
+          "co": "2.6",
+          "co_index": "26",
+          "o3": "10",
+          "o3_index": "4",
+          "o3_8h": "6",
+          "o3_8h_index": "0",
+          "pm2_5": "252",
+          "pm2_5_index": "302",
+          "pm10": "334",
+          "pm10_index": "192",
+          "longitude": "123.535",
+          "latitude": "41.7561",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.439",
+            "41.7089"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "新秀街",
+          "station_code": "1100A",
+          "aqi": "261",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "361",
+          "so2_index": "81",
+          "no2": "130",
+          "no2_index": "65",
+          "co": "2.8",
+          "co_index": "28",
+          "o3": "3",
+          "o3_index": "1",
+          "o3_8h": "2",
+          "o3_8h_index": "0",
+          "pm2_5": "211",
+          "pm2_5_index": "261",
+          "pm10": "283",
+          "pm10_index": "167",
+          "longitude": "123.439",
+          "latitude": "41.7089",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.542",
+            "41.8336"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "东陵路",
+          "station_code": "1102A",
+          "aqi": "308",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "63",
+          "so2_index": "21",
+          "no2": "82",
+          "no2_index": "41",
+          "co": "2.2",
+          "co_index": "22",
+          "o3": "25",
+          "o3_index": "8",
+          "o3_8h": "17",
+          "o3_8h_index": "0",
+          "pm2_5": "258",
+          "pm2_5_index": "308",
+          "pm10": "297",
+          "pm10_index": "174",
+          "longitude": "123.542",
+          "latitude": "41.8336",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.428",
+            "41.8472"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "陵东街",
+          "station_code": "1103A",
+          "aqi": "329",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "73",
+          "so2_index": "25",
+          "no2": "88",
+          "no2_index": "44",
+          "co": "2.4",
+          "co_index": "24",
+          "o3": "24",
+          "o3_index": "8",
+          "o3_8h": "10",
+          "o3_8h_index": "0",
+          "pm2_5": "279",
+          "pm2_5_index": "329",
+          "pm10": "353",
+          "pm10_index": "205",
+          "longitude": "123.428",
+          "latitude": "41.8472",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.41",
+            "41.765"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "文化路",
+          "station_code": "1104A",
+          "aqi": "273",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "233",
+          "so2_index": "62",
+          "no2": "115",
+          "no2_index": "58",
+          "co": "2.4",
+          "co_index": "24",
+          "o3": "13",
+          "o3_index": "5",
+          "o3_8h": "8",
+          "o3_8h_index": "0",
+          "pm2_5": "223",
+          "pm2_5_index": "273",
+          "pm10": "329",
+          "pm10_index": "190",
+          "longitude": "123.41",
+          "latitude": "41.765",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.478",
+            "41.7775"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "小河沿",
+          "station_code": "1105A",
+          "aqi": "332",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "246",
+          "so2_index": "64",
+          "no2": "107",
+          "no2_index": "54",
+          "co": "2.4",
+          "co_index": "24",
+          "o3": "14",
+          "o3_index": "5",
+          "o3_8h": "6",
+          "o3_8h_index": "0",
+          "pm2_5": "282",
+          "pm2_5_index": "332",
+          "pm10": "388",
+          "pm10_index": "255",
+          "longitude": "123.478",
+          "latitude": "41.7775",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.3997",
+            "41.7972"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "太原街",
+          "station_code": "1106A",
+          "aqi": "374",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "241",
+          "so2_index": "63",
+          "no2": "119",
+          "no2_index": "60",
+          "co": "2.9",
+          "co_index": "29",
+          "o3": "5",
+          "o3_index": "2",
+          "o3_8h": "3",
+          "o3_8h_index": "0",
+          "pm2_5": "324",
+          "pm2_5_index": "374",
+          "pm10": "397",
+          "pm10_index": "268",
+          "longitude": "123.3997",
+          "latitude": "41.7972",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.3783",
+            "41.9228"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "京沈街",
+          "station_code": "1108A",
+          "aqi": "311",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "63",
+          "so2_index": "21",
+          "no2": "78",
+          "no2_index": "39",
+          "co": "2.3",
+          "co_index": "23",
+          "o3": "41",
+          "o3_index": "13",
+          "o3_8h": "17",
+          "o3_8h_index": "0",
+          "pm2_5": "261",
+          "pm2_5_index": "311",
+          "pm10": "272",
+          "pm10_index": "161",
+          "longitude": "123.3783",
+          "latitude": "41.9228",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.2444",
+            "41.7347"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "沈辽西路",
+          "station_code": "2897A",
+          "aqi": "399",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "79",
+          "so2_index": "27",
+          "no2": "85",
+          "no2_index": "43",
+          "co": "2.3",
+          "co_index": "23",
+          "o3": "22",
+          "o3_index": "7",
+          "o3_8h": "12",
+          "o3_8h_index": "0",
+          "pm2_5": "349",
+          "pm2_5_index": "399",
+          "pm10": "445",
+          "pm10_index": "332",
+          "longitude": "123.2444",
+          "latitude": "41.7347",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.5953",
+            "41.9086"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "沈阳市",
+          "city_code": "210100",
+          "station": "裕农路",
+          "station_code": "2900A",
+          "aqi": "340",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "50",
+          "so2_index": "17",
+          "no2": "77",
+          "no2_index": "39",
+          "co": "2.7",
+          "co_index": "27",
+          "o3": "28",
+          "o3_index": "9",
+          "o3_8h": "12",
+          "o3_8h_index": "0",
+          "pm2_5": "290",
+          "pm2_5_index": "340",
+          "pm10": "348",
+          "pm10_index": "199",
+          "longitude": "123.5953",
+          "latitude": "41.9086",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.61194444",
+            "38.973888889"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "甘井子",
+          "station_code": "1109A",
+          "aqi": "110",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "22",
+          "so2_index": "8",
+          "no2": "83",
+          "no2_index": "42",
+          "co": "1.6",
+          "co_index": "16",
+          "o3": "17",
+          "o3_index": "6",
+          "o3_8h": "25",
+          "o3_8h_index": "0",
+          "pm2_5": "83",
+          "pm2_5_index": "110",
+          "pm10": "130",
+          "pm10_index": "90",
+          "longitude": "121.61194444",
+          "latitude": "38.973888889",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.565",
+            "38.951111111"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "周水子",
+          "station_code": "1110A",
+          "aqi": "114",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "19",
+          "so2_index": "7",
+          "no2": "52",
+          "no2_index": "26",
+          "co": "1.8",
+          "co_index": "18",
+          "o3": "11",
+          "o3_index": "4",
+          "o3_8h": "15",
+          "o3_8h_index": "0",
+          "pm2_5": "86",
+          "pm2_5_index": "114",
+          "pm10": "149",
+          "pm10_index": "100",
+          "longitude": "121.565",
+          "latitude": "38.951111111",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.56388889",
+            "38.885"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "星海三站",
+          "station_code": "1111A",
+          "aqi": "182",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "32",
+          "so2_index": "11",
+          "no2": "60",
+          "no2_index": "30",
+          "co": "0.6",
+          "co_index": "6",
+          "o3": "30",
+          "o3_index": "10",
+          "o3_8h": "40",
+          "o3_8h_index": "0",
+          "pm2_5": "137",
+          "pm2_5_index": "182",
+          "pm10": "",
+          "pm10_index": "0",
+          "longitude": "121.56388889",
+          "latitude": "38.885",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.63305556",
+            "38.911944444"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "青泥洼桥",
+          "station_code": "1112A",
+          "aqi": "56",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "30",
+          "so2_index": "10",
+          "no2": "62",
+          "no2_index": "31",
+          "co": "1.8",
+          "co_index": "18",
+          "o3": "24",
+          "o3_index": "8",
+          "o3_8h": "28",
+          "o3_8h_index": "0",
+          "pm2_5": "23",
+          "pm2_5_index": "33",
+          "pm10": "61",
+          "pm10_index": "56",
+          "longitude": "121.63305556",
+          "latitude": "38.911944444",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.625",
+            "38.863888889"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "傅家庄",
+          "station_code": "1113A",
+          "aqi": "69",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "22",
+          "so2_index": "8",
+          "no2": "41",
+          "no2_index": "21",
+          "co": "0.9",
+          "co_index": "9",
+          "o3": "44",
+          "o3_index": "14",
+          "o3_8h": "48",
+          "o3_8h_index": "0",
+          "pm2_5": "50",
+          "pm2_5_index": "69",
+          "pm10": "57",
+          "pm10_index": "54",
+          "longitude": "121.625",
+          "latitude": "38.863888889",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.51805556",
+            "38.856111111"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "七贤岭",
+          "station_code": "1114A",
+          "aqi": "68",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "26",
+          "so2_index": "9",
+          "no2": "24",
+          "no2_index": "12",
+          "co": "1.3",
+          "co_index": "13",
+          "o3": "49",
+          "o3_index": "16",
+          "o3_8h": "37",
+          "o3_8h_index": "0",
+          "pm2_5": "49",
+          "pm2_5_index": "68",
+          "pm10": "66",
+          "pm10_index": "58",
+          "longitude": "121.51805556",
+          "latitude": "38.856111111",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.25888889",
+            "38.808055556"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "旅顺",
+          "station_code": "1115A",
+          "aqi": "83",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "42",
+          "so2_index": "14",
+          "no2": "42",
+          "no2_index": "21",
+          "co": "1",
+          "co_index": "10",
+          "o3": "33",
+          "o3_index": "11",
+          "o3_8h": "36",
+          "o3_8h_index": "0",
+          "pm2_5": "61",
+          "pm2_5_index": "83",
+          "pm10": "81",
+          "pm10_index": "66",
+          "longitude": "121.25888889",
+          "latitude": "38.808055556",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.7481",
+            "39.1311"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "金州",
+          "station_code": "1116A",
+          "aqi": "77",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "16",
+          "so2_index": "6",
+          "no2": "23",
+          "no2_index": "12",
+          "co": "1.3",
+          "co_index": "13",
+          "o3": "51",
+          "o3_index": "16",
+          "o3_8h": "40",
+          "o3_8h_index": "0",
+          "pm2_5": "56",
+          "pm2_5_index": "77",
+          "pm10": "82",
+          "pm10_index": "66",
+          "longitude": "121.7481",
+          "latitude": "39.1311",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.7769",
+            "39.0511"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "开发区",
+          "station_code": "1117A",
+          "aqi": "95",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "25",
+          "so2_index": "9",
+          "no2": "51",
+          "no2_index": "26",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "32",
+          "o3_index": "10",
+          "o3_8h": "26",
+          "o3_8h_index": "0",
+          "pm2_5": "71",
+          "pm2_5_index": "95",
+          "pm10": "96",
+          "pm10_index": "73",
+          "longitude": "121.7769",
+          "latitude": "39.0511",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.9769",
+            "39.0631"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "大连市",
+          "city_code": "210200",
+          "station": "双D港",
+          "station_code": "1118A",
+          "aqi": "104",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "33",
+          "so2_index": "11",
+          "no2": "53",
+          "no2_index": "27",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "50",
+          "o3_index": "16",
+          "o3_8h": "50",
+          "o3_8h_index": "0",
+          "pm2_5": "78",
+          "pm2_5_index": "104",
+          "pm10": "",
+          "pm10_index": "0",
+          "longitude": "121.9769",
+          "latitude": "39.0631",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.989",
+            "39.625"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "瓦房店市",
+          "city_code": "0",
+          "station": "抱龙山庄",
+          "station_code": "2018A",
+          "aqi": "79",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "53",
+          "so2_index": "18",
+          "no2": "54",
+          "no2_index": "27",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "22",
+          "o3_index": "7",
+          "o3_8h": "10",
+          "o3_8h_index": "0",
+          "pm2_5": "58",
+          "pm2_5_index": "79",
+          "pm10": "",
+          "pm10_index": "0",
+          "longitude": "121.989",
+          "latitude": "39.625",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.011",
+            "39.617"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "瓦房店市",
+          "city_code": "0",
+          "station": "东山公园",
+          "station_code": "2019A",
+          "aqi": "70",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "46",
+          "so2_index": "16",
+          "no2": "42",
+          "no2_index": "21",
+          "co": "0.6",
+          "co_index": "6",
+          "o3": "34",
+          "o3_index": "11",
+          "o3_8h": "21",
+          "o3_8h_index": "0",
+          "pm2_5": "51",
+          "pm2_5_index": "70",
+          "pm10": "",
+          "pm10_index": "0",
+          "longitude": "122.011",
+          "latitude": "39.617",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.044",
+            "41.1196"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "鞍山市",
+          "city_code": "210300",
+          "station": "深沟寺",
+          "station_code": "1748A",
+          "aqi": "374",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "222",
+          "so2_index": "61",
+          "no2": "106",
+          "no2_index": "53",
+          "co": "3.6",
+          "co_index": "36",
+          "o3": "19",
+          "o3_index": "6",
+          "o3_8h": "22",
+          "o3_8h_index": "0",
+          "pm2_5": "324",
+          "pm2_5_index": "374",
+          "pm10": "387",
+          "pm10_index": "253",
+          "longitude": "123.044",
+          "latitude": "41.1196",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.011",
+            "41.0931"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "鞍山市",
+          "city_code": "210300",
+          "station": "太阳城",
+          "station_code": "1749A",
+          "aqi": "346",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "223",
+          "so2_index": "61",
+          "no2": "115",
+          "no2_index": "58",
+          "co": "3.4",
+          "co_index": "34",
+          "o3": "20",
+          "o3_index": "7",
+          "o3_8h": "16",
+          "o3_8h_index": "0",
+          "pm2_5": "296",
+          "pm2_5_index": "346",
+          "pm10": "367",
+          "pm10_index": "225",
+          "longitude": "123.011",
+          "latitude": "41.0931",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.0485",
+            "41.1442"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "鞍山市",
+          "city_code": "210300",
+          "station": "太平",
+          "station_code": "1750A",
+          "aqi": "500",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "178",
+          "so2_index": "54",
+          "no2": "108",
+          "no2_index": "54",
+          "co": "4",
+          "co_index": "40",
+          "o3": "23",
+          "o3_index": "8",
+          "o3_8h": "15",
+          "o3_8h_index": "0",
+          "pm2_5": "317",
+          "pm2_5_index": "367",
+          "pm10": "680",
+          "pm10_index": "500",
+          "longitude": "123.0485",
+          "latitude": "41.1442",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.9642",
+            "41.0971"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "鞍山市",
+          "city_code": "210300",
+          "station": "铁西三道街",
+          "station_code": "1751A",
+          "aqi": "346",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "116",
+          "so2_index": "39",
+          "no2": "111",
+          "no2_index": "56",
+          "co": "4.4",
+          "co_index": "44",
+          "o3": "8",
+          "o3_index": "3",
+          "o3_8h": "6",
+          "o3_8h_index": "0",
+          "pm2_5": "296",
+          "pm2_5_index": "346",
+          "pm10": "436",
+          "pm10_index": "320",
+          "longitude": "122.9642",
+          "latitude": "41.0971",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.9481",
+            "41.0833"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "鞍山市",
+          "city_code": "210300",
+          "station": "铁西工业园区",
+          "station_code": "1752A",
+          "aqi": "329",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "111",
+          "so2_index": "37",
+          "no2": "96",
+          "no2_index": "48",
+          "co": "4",
+          "co_index": "40",
+          "o3": "6",
+          "o3_index": "2",
+          "o3_8h": "5",
+          "o3_8h_index": "0",
+          "pm2_5": "274",
+          "pm2_5_index": "324",
+          "pm10": "443",
+          "pm10_index": "329",
+          "longitude": "122.9481",
+          "latitude": "41.0833",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.0156",
+            "41.0831"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "鞍山市",
+          "city_code": "210300",
+          "station": "明达新区",
+          "station_code": "1753A",
+          "aqi": "305",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "169",
+          "so2_index": "53",
+          "no2": "98",
+          "no2_index": "49",
+          "co": "2.6",
+          "co_index": "26",
+          "o3": "21",
+          "o3_index": "7",
+          "o3_8h": "17",
+          "o3_8h_index": "0",
+          "pm2_5": "255",
+          "pm2_5_index": "305",
+          "pm10": "313",
+          "pm10_index": "182",
+          "longitude": "123.0156",
+          "latitude": "41.0831",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.1289",
+            "41.0228"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "鞍山市",
+          "city_code": "210300",
+          "station": "千山",
+          "station_code": "1754A",
+          "aqi": "169",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "92",
+          "so2_index": "31",
+          "no2": "101",
+          "no2_index": "51",
+          "co": "1.8",
+          "co_index": "18",
+          "o3": "21",
+          "o3_index": "7",
+          "o3_8h": "25",
+          "o3_8h_index": "0",
+          "pm2_5": "128",
+          "pm2_5_index": "169",
+          "pm10": "191",
+          "pm10_index": "121",
+          "longitude": "123.1289",
+          "latitude": "41.0228",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.81",
+            "41.8469"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "抚顺市",
+          "city_code": "210400",
+          "station": "望花区",
+          "station_code": "1755A",
+          "aqi": "125",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "106",
+          "so2_index": "36",
+          "no2": "74",
+          "no2_index": "37",
+          "co": "1.4",
+          "co_index": "14",
+          "o3": "17",
+          "o3_index": "6",
+          "o3_8h": "8",
+          "o3_8h_index": "0",
+          "pm2_5": "95",
+          "pm2_5_index": "125",
+          "pm10": "126",
+          "pm10_index": "88",
+          "longitude": "123.81",
+          "latitude": "41.8469",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.9169",
+            "41.8828"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "抚顺市",
+          "city_code": "210400",
+          "station": "顺城区",
+          "station_code": "1756A",
+          "aqi": "84",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "61",
+          "so2_index": "21",
+          "no2": "85",
+          "no2_index": "43",
+          "co": "2",
+          "co_index": "20",
+          "o3": "21",
+          "o3_index": "7",
+          "o3_8h": "13",
+          "o3_8h_index": "0",
+          "pm2_5": "56",
+          "pm2_5_index": "77",
+          "pm10": "117",
+          "pm10_index": "84",
+          "longitude": "123.9169",
+          "latitude": "41.8828",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "124.0383",
+            "41.8625"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "抚顺市",
+          "city_code": "210400",
+          "station": "东洲区",
+          "station_code": "1757A",
+          "aqi": "65",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "40",
+          "so2_index": "14",
+          "no2": "28",
+          "no2_index": "14",
+          "co": "0.9",
+          "co_index": "9",
+          "o3": "50",
+          "o3_index": "16",
+          "o3_8h": "22",
+          "o3_8h_index": "0",
+          "pm2_5": "42",
+          "pm2_5_index": "59",
+          "pm10": "79",
+          "pm10_index": "65",
+          "longitude": "124.0383",
+          "latitude": "41.8625",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.9",
+            "41.8594"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "抚顺市",
+          "city_code": "210400",
+          "station": "新抚区",
+          "station_code": "1758A",
+          "aqi": "98",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "40",
+          "so2_index": "14",
+          "no2": "48",
+          "no2_index": "24",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "32",
+          "o3_index": "10",
+          "o3_8h": "14",
+          "o3_8h_index": "0",
+          "pm2_5": "73",
+          "pm2_5_index": "98",
+          "pm10": "124",
+          "pm10_index": "87",
+          "longitude": "123.9",
+          "latitude": "41.8594",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "124.0878",
+            "41.8864"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "抚顺市",
+          "city_code": "210400",
+          "station": "大伙房水库",
+          "station_code": "1759A",
+          "aqi": "59",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "32",
+          "so2_index": "11",
+          "no2": "24",
+          "no2_index": "12",
+          "co": "1",
+          "co_index": "10",
+          "o3": "75",
+          "o3_index": "24",
+          "o3_8h": "36",
+          "o3_8h_index": "0",
+          "pm2_5": "29",
+          "pm2_5_index": "42",
+          "pm10": "68",
+          "pm10_index": "59",
+          "longitude": "124.0878",
+          "latitude": "41.8864",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.7117",
+            "41.8417"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "抚顺市",
+          "city_code": "210400",
+          "station": "沈抚新城",
+          "station_code": "1760A",
+          "aqi": "196",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "60",
+          "so2_index": "20",
+          "no2": "71",
+          "no2_index": "36",
+          "co": "1.6",
+          "co_index": "16",
+          "o3": "30",
+          "o3_index": "10",
+          "o3_8h": "13",
+          "o3_8h_index": "0",
+          "pm2_5": "147",
+          "pm2_5_index": "196",
+          "pm10": "",
+          "pm10_index": "0",
+          "longitude": "123.7117",
+          "latitude": "41.8417",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.8436",
+            "41.3283"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "本溪市",
+          "city_code": "210500",
+          "station": "大峪",
+          "station_code": "1761A",
+          "aqi": "63",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "69",
+          "so2_index": "23",
+          "no2": "56",
+          "no2_index": "28",
+          "co": "1.5",
+          "co_index": "15",
+          "o3": "32",
+          "o3_index": "10",
+          "o3_8h": "23",
+          "o3_8h_index": "0",
+          "pm2_5": "45",
+          "pm2_5_index": "63",
+          "pm10": "64",
+          "pm10_index": "57",
+          "longitude": "123.8436",
+          "latitude": "41.3283",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.7528",
+            "41.3369"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "本溪市",
+          "city_code": "210500",
+          "station": "溪湖",
+          "station_code": "1762A",
+          "aqi": "103",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "460",
+          "so2_index": "95",
+          "no2": "69",
+          "no2_index": "35",
+          "co": "2.2",
+          "co_index": "22",
+          "o3": "18",
+          "o3_index": "6",
+          "o3_8h": "11",
+          "o3_8h_index": "0",
+          "pm2_5": "77",
+          "pm2_5_index": "103",
+          "pm10": "120",
+          "pm10_index": "85",
+          "longitude": "123.7528",
+          "latitude": "41.3369",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.7308",
+            "41.3047"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "本溪市",
+          "city_code": "210500",
+          "station": "彩屯",
+          "station_code": "1763A",
+          "aqi": "175",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "323",
+          "so2_index": "75",
+          "no2": "90",
+          "no2_index": "45",
+          "co": "4.5",
+          "co_index": "45",
+          "o3": "11",
+          "o3_index": "4",
+          "o3_8h": "9",
+          "o3_8h_index": "0",
+          "pm2_5": "132",
+          "pm2_5_index": "175",
+          "pm10": "185",
+          "pm10_index": "118",
+          "longitude": "123.7308",
+          "latitude": "41.3047",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.7669",
+            "41.2864"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "本溪市",
+          "city_code": "210500",
+          "station": "东明",
+          "station_code": "1764A",
+          "aqi": "153",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "193",
+          "so2_index": "57",
+          "no2": "71",
+          "no2_index": "36",
+          "co": "3.6",
+          "co_index": "36",
+          "o3": "19",
+          "o3_index": "6",
+          "o3_8h": "13",
+          "o3_8h_index": "0",
+          "pm2_5": "117",
+          "pm2_5_index": "153",
+          "pm10": "214",
+          "pm10_index": "132",
+          "longitude": "123.7669",
+          "latitude": "41.2864",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.7989",
+            "41.2692"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "本溪市",
+          "city_code": "210500",
+          "station": "新立屯",
+          "station_code": "1765A",
+          "aqi": "203",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "375",
+          "so2_index": "83",
+          "no2": "88",
+          "no2_index": "44",
+          "co": "6.3",
+          "co_index": "63",
+          "o3": "6",
+          "o3_index": "2",
+          "o3_8h": "6",
+          "o3_8h_index": "0",
+          "pm2_5": "153",
+          "pm2_5_index": "203",
+          "pm10": "341",
+          "pm10_index": "196",
+          "longitude": "123.7989",
+          "latitude": "41.2692",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.8142",
+            "41.3472"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "本溪市",
+          "city_code": "210500",
+          "station": "威宁",
+          "station_code": "1766A",
+          "aqi": "82",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "76",
+          "so2_index": "26",
+          "no2": "50",
+          "no2_index": "25",
+          "co": "1.1",
+          "co_index": "11",
+          "o3": "36",
+          "o3_index": "12",
+          "o3_8h": "25",
+          "o3_8h_index": "0",
+          "pm2_5": "51",
+          "pm2_5_index": "70",
+          "pm10": "113",
+          "pm10_index": "82",
+          "longitude": "123.8142",
+          "latitude": "41.3472",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "124.3303",
+            "40.0625"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "丹东市",
+          "city_code": "210600",
+          "station": "江湾东路",
+          "station_code": "1600A",
+          "aqi": "93",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "138",
+          "so2_index": "46",
+          "no2": "51",
+          "no2_index": "26",
+          "co": "1.6",
+          "co_index": "16",
+          "o3": "33",
+          "o3_index": "11",
+          "o3_8h": "17",
+          "o3_8h_index": "0",
+          "pm2_5": "69",
+          "pm2_5_index": "93",
+          "pm10": "102",
+          "pm10_index": "76",
+          "longitude": "124.3303",
+          "latitude": "40.0625",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "124.4256",
+            "40.1503"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "丹东市",
+          "city_code": "210600",
+          "station": "临江后街",
+          "station_code": "1601A",
+          "aqi": "48",
+          "pollutions": "—",
+          "so2": "15",
+          "so2_index": "5",
+          "no2": "17",
+          "no2_index": "9",
+          "co": "0.8",
+          "co_index": "8",
+          "o3": "59",
+          "o3_index": "19",
+          "o3_8h": "22",
+          "o3_8h_index": "0",
+          "pm2_5": "33",
+          "pm2_5_index": "48",
+          "pm10": "41",
+          "pm10_index": "41",
+          "longitude": "124.4256",
+          "latitude": "40.1503",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "124.3933",
+            "40.1461"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "丹东市",
+          "city_code": "210600",
+          "station": "元宝山",
+          "station_code": "1602A",
+          "aqi": "82",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "46",
+          "so2_index": "16",
+          "no2": "33",
+          "no2_index": "17",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "40",
+          "o3_index": "13",
+          "o3_8h": "19",
+          "o3_8h_index": "0",
+          "pm2_5": "60",
+          "pm2_5_index": "82",
+          "pm10": "74",
+          "pm10_index": "62",
+          "longitude": "124.3933",
+          "latitude": "40.1461",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "124.3678",
+            "40.1194"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "丹东市",
+          "city_code": "210600",
+          "station": "民主桥",
+          "station_code": "1603A",
+          "aqi": "78",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "100",
+          "so2_index": "34",
+          "no2": "45",
+          "no2_index": "23",
+          "co": "1.4",
+          "co_index": "14",
+          "o3": "40",
+          "o3_index": "13",
+          "o3_8h": "20",
+          "o3_8h_index": "0",
+          "pm2_5": "57",
+          "pm2_5_index": "78",
+          "pm10": "89",
+          "pm10_index": "70",
+          "longitude": "124.3678",
+          "latitude": "40.1194",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.0986",
+            "41.0781"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "锦州市",
+          "city_code": "210700",
+          "station": "南山",
+          "station_code": "1767A",
+          "aqi": "83",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "39",
+          "so2_index": "13",
+          "no2": "37",
+          "no2_index": "19",
+          "co": "1.1",
+          "co_index": "11",
+          "o3": "58",
+          "o3_index": "19",
+          "o3_8h": "19",
+          "o3_8h_index": "0",
+          "pm2_5": "61",
+          "pm2_5_index": "83",
+          "pm10": "107",
+          "pm10_index": "79",
+          "longitude": "121.0986",
+          "latitude": "41.0781",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.045",
+            "40.8333"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "锦州市",
+          "city_code": "210700",
+          "station": "开发区",
+          "station_code": "1768A",
+          "aqi": "98",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "63",
+          "so2_index": "21",
+          "no2": "35",
+          "no2_index": "18",
+          "co": "1.1",
+          "co_index": "11",
+          "o3": "60",
+          "o3_index": "19",
+          "o3_8h": "26",
+          "o3_8h_index": "0",
+          "pm2_5": "73",
+          "pm2_5_index": "98",
+          "pm10": "92",
+          "pm10_index": "71",
+          "longitude": "121.045",
+          "latitude": "40.8333",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.2008",
+            "41.1219"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "锦州市",
+          "city_code": "210700",
+          "station": "百股街道",
+          "station_code": "1769A",
+          "aqi": "82",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "35",
+          "so2_index": "12",
+          "no2": "27",
+          "no2_index": "14",
+          "co": "2",
+          "co_index": "20",
+          "o3": "59",
+          "o3_index": "19",
+          "o3_8h": "37",
+          "o3_8h_index": "0",
+          "pm2_5": "34",
+          "pm2_5_index": "49",
+          "pm10": "113",
+          "pm10_index": "82",
+          "longitude": "121.2008",
+          "latitude": "41.1219",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.1178",
+            "41.1222"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "锦州市",
+          "city_code": "210700",
+          "station": "天安街道",
+          "station_code": "1770A",
+          "aqi": "90",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "27",
+          "so2_index": "9",
+          "no2": "36",
+          "no2_index": "18",
+          "co": "0.7",
+          "co_index": "7",
+          "o3": "59",
+          "o3_index": "19",
+          "o3_8h": "23",
+          "o3_8h_index": "0",
+          "pm2_5": "67",
+          "pm2_5_index": "90",
+          "pm10": "82",
+          "pm10_index": "66",
+          "longitude": "121.1178",
+          "latitude": "41.1222",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.1303",
+            "41.1386"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "锦州市",
+          "city_code": "210700",
+          "station": "北湖公园",
+          "station_code": "1771A",
+          "aqi": "67",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "32",
+          "so2_index": "11",
+          "no2": "32",
+          "no2_index": "16",
+          "co": "0.6",
+          "co_index": "6",
+          "o3": "69",
+          "o3_index": "22",
+          "o3_8h": "29",
+          "o3_8h_index": "0",
+          "pm2_5": "42",
+          "pm2_5_index": "59",
+          "pm10": "83",
+          "pm10_index": "67",
+          "longitude": "121.1303",
+          "latitude": "41.1386",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.2414",
+            "40.6592"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "营口市",
+          "city_code": "210800",
+          "station": "学府南路",
+          "station_code": "1596A",
+          "aqi": "218",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "52",
+          "so2_index": "18",
+          "no2": "53",
+          "no2_index": "27",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "33",
+          "o3_index": "11",
+          "o3_8h": "17",
+          "o3_8h_index": "0",
+          "pm2_5": "168",
+          "pm2_5_index": "218",
+          "pm10": "272",
+          "pm10_index": "161",
+          "longitude": "122.2414",
+          "latitude": "40.6592",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.2703",
+            "40.7094"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "营口市",
+          "city_code": "210800",
+          "station": "大庆路",
+          "station_code": "1597A",
+          "aqi": "219",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "39",
+          "so2_index": "13",
+          "no2": "47",
+          "no2_index": "24",
+          "co": "1.4",
+          "co_index": "14",
+          "o3": "6",
+          "o3_index": "2",
+          "o3_8h": "4",
+          "o3_8h_index": "0",
+          "pm2_5": "169",
+          "pm2_5_index": "219",
+          "pm10": "",
+          "pm10_index": "0",
+          "longitude": "122.2703",
+          "latitude": "40.7094",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.215",
+            "40.6511"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "营口市",
+          "city_code": "210800",
+          "station": "镜湖西路",
+          "station_code": "1598A",
+          "aqi": "186",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "25",
+          "so2_index": "9",
+          "no2": "52",
+          "no2_index": "26",
+          "co": "1.8",
+          "co_index": "18",
+          "o3": "27",
+          "o3_index": "9",
+          "o3_8h": "15",
+          "o3_8h_index": "0",
+          "pm2_5": "140",
+          "pm2_5_index": "186",
+          "pm10": "179",
+          "pm10_index": "115",
+          "longitude": "122.215",
+          "latitude": "40.6511",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.1658",
+            "40.6789"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "营口市",
+          "city_code": "210800",
+          "station": "西炮台",
+          "station_code": "1599A",
+          "aqi": "233",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "27",
+          "so2_index": "9",
+          "no2": "31",
+          "no2_index": "16",
+          "co": "1.5",
+          "co_index": "15",
+          "o3": "28",
+          "o3_index": "9",
+          "o3_8h": "12",
+          "o3_8h_index": "0",
+          "pm2_5": "183",
+          "pm2_5_index": "233",
+          "pm10": "224",
+          "pm10_index": "137",
+          "longitude": "122.1658",
+          "latitude": "40.6789",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.6178",
+            "41.9967"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "阜新市",
+          "city_code": "210900",
+          "station": "工业园区",
+          "station_code": "2207A",
+          "aqi": "55",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "19",
+          "so2_index": "7",
+          "no2": "21",
+          "no2_index": "11",
+          "co": "0.5",
+          "co_index": "5",
+          "o3": "75",
+          "o3_index": "24",
+          "o3_8h": "38",
+          "o3_8h_index": "0",
+          "pm2_5": "26",
+          "pm2_5_index": "38",
+          "pm10": "59",
+          "pm10_index": "55",
+          "longitude": "121.6178",
+          "latitude": "41.9967",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.6561",
+            "42.0186"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "阜新市",
+          "city_code": "210900",
+          "station": "长青街",
+          "station_code": "2208A",
+          "aqi": "51",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "26",
+          "so2_index": "9",
+          "no2": "12",
+          "no2_index": "6",
+          "co": "0.7",
+          "co_index": "7",
+          "o3": "66",
+          "o3_index": "21",
+          "o3_8h": "31",
+          "o3_8h_index": "0",
+          "pm2_5": "30",
+          "pm2_5_index": "43",
+          "pm10": "52",
+          "pm10_index": "51",
+          "longitude": "121.6561",
+          "latitude": "42.0186",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.6972",
+            "42.0503"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "阜新市",
+          "city_code": "210900",
+          "station": "农业园区",
+          "station_code": "2209A",
+          "aqi": "50",
+          "pollutions": "—",
+          "so2": "16",
+          "so2_index": "6",
+          "no2": "12",
+          "no2_index": "6",
+          "co": "0.5",
+          "co_index": "5",
+          "o3": "79",
+          "o3_index": "25",
+          "o3_8h": "56",
+          "o3_8h_index": "0",
+          "pm2_5": "29",
+          "pm2_5_index": "42",
+          "pm10": "50",
+          "pm10_index": "50",
+          "longitude": "121.6972",
+          "latitude": "42.0503",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.6722",
+            "42.0228"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "阜新市",
+          "city_code": "210900",
+          "station": "东苑",
+          "station_code": "2210A",
+          "aqi": "47",
+          "pollutions": "—",
+          "so2": "26",
+          "so2_index": "9",
+          "no2": "15",
+          "no2_index": "8",
+          "co": "0.7",
+          "co_index": "7",
+          "o3": "74",
+          "o3_index": "24",
+          "o3_8h": "38",
+          "o3_8h_index": "0",
+          "pm2_5": "28",
+          "pm2_5_index": "40",
+          "pm10": "47",
+          "pm10_index": "47",
+          "longitude": "121.6722",
+          "latitude": "42.0228",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.6592",
+            "42.0486"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "阜新市",
+          "city_code": "210900",
+          "station": "玉龙新城",
+          "station_code": "2211A",
+          "aqi": "50",
+          "pollutions": "—",
+          "so2": "24",
+          "so2_index": "8",
+          "no2": "9",
+          "no2_index": "5",
+          "co": "1.5",
+          "co_index": "15",
+          "o3": "75",
+          "o3_index": "24",
+          "o3_8h": "42",
+          "o3_8h_index": "0",
+          "pm2_5": "28",
+          "pm2_5_index": "40",
+          "pm10": "50",
+          "pm10_index": "50",
+          "longitude": "121.6592",
+          "latitude": "42.0486",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.2",
+            "41.1953"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "辽阳市",
+          "city_code": "211000",
+          "station": "宏伟区",
+          "station_code": "2212A",
+          "aqi": "287",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "160",
+          "so2_index": "52",
+          "no2": "105",
+          "no2_index": "53",
+          "co": "2.8",
+          "co_index": "28",
+          "o3": "20",
+          "o3_index": "7",
+          "o3_8h": "14",
+          "o3_8h_index": "0",
+          "pm2_5": "237",
+          "pm2_5_index": "287",
+          "pm10": "283",
+          "pm10_index": "167",
+          "longitude": "123.2",
+          "latitude": "41.1953",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.15",
+            "41.2553"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "辽阳市",
+          "city_code": "211000",
+          "station": "新华园",
+          "station_code": "2213A",
+          "aqi": "274",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "160",
+          "so2_index": "52",
+          "no2": "113",
+          "no2_index": "57",
+          "co": "3.2",
+          "co_index": "32",
+          "o3": "17",
+          "o3_index": "6",
+          "o3_8h": "13",
+          "o3_8h_index": "0",
+          "pm2_5": "224",
+          "pm2_5_index": "274",
+          "pm10": "323",
+          "pm10_index": "187",
+          "longitude": "123.15",
+          "latitude": "41.2553",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.1761",
+            "41.2736"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "辽阳市",
+          "city_code": "211000",
+          "station": "滨河路",
+          "station_code": "2214A",
+          "aqi": "351",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "101",
+          "so2_index": "34",
+          "no2": "107",
+          "no2_index": "54",
+          "co": "3.2",
+          "co_index": "32",
+          "o3": "18",
+          "o3_index": "6",
+          "o3_8h": "13",
+          "o3_8h_index": "0",
+          "pm2_5": "301",
+          "pm2_5_index": "351",
+          "pm10": "318",
+          "pm10_index": "184",
+          "longitude": "123.1761",
+          "latitude": "41.2736",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.1417",
+            "41.2894"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "辽阳市",
+          "city_code": "211000",
+          "station": "铁西工业园",
+          "station_code": "2215A",
+          "aqi": "327",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "148",
+          "so2_index": "50",
+          "no2": "106",
+          "no2_index": "53",
+          "co": "3",
+          "co_index": "30",
+          "o3": "10",
+          "o3_index": "4",
+          "o3_8h": "6",
+          "o3_8h_index": "0",
+          "pm2_5": "277",
+          "pm2_5_index": "327",
+          "pm10": "352",
+          "pm10_index": "203",
+          "longitude": "123.1417",
+          "latitude": "41.2894",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.0247",
+            "41.1556"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "盘锦市",
+          "city_code": "211100",
+          "station": "开发区",
+          "station_code": "1604A",
+          "aqi": "120",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "39",
+          "so2_index": "13",
+          "no2": "36",
+          "no2_index": "18",
+          "co": "1.3",
+          "co_index": "13",
+          "o3": "56",
+          "o3_index": "18",
+          "o3_8h": "29",
+          "o3_8h_index": "0",
+          "pm2_5": "91",
+          "pm2_5_index": "120",
+          "pm10": "138",
+          "pm10_index": "94",
+          "longitude": "122.0247",
+          "latitude": "41.1556",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "122.0539",
+            "41.0903"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "盘锦市",
+          "city_code": "211100",
+          "station": "兴隆台",
+          "station_code": "1605A",
+          "aqi": "102",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "72",
+          "so2_index": "24",
+          "no2": "46",
+          "no2_index": "23",
+          "co": "1.6",
+          "co_index": "16",
+          "o3": "49",
+          "o3_index": "16",
+          "o3_8h": "22",
+          "o3_8h_index": "0",
+          "pm2_5": "76",
+          "pm2_5_index": "102",
+          "pm10": "150",
+          "pm10_index": "100",
+          "longitude": "122.0539",
+          "latitude": "41.0903",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "121.835",
+            "41.1042"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "盘锦市",
+          "city_code": "211100",
+          "station": "新生街道",
+          "station_code": "1606A",
+          "aqi": "85",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "30",
+          "so2_index": "10",
+          "no2": "27",
+          "no2_index": "14",
+          "co": "0.8",
+          "co_index": "8",
+          "o3": "56",
+          "o3_index": "18",
+          "o3_8h": "30",
+          "o3_8h_index": "0",
+          "pm2_5": "63",
+          "pm2_5_index": "85",
+          "pm10": "112",
+          "pm10_index": "81",
+          "longitude": "121.835",
+          "latitude": "41.1042",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.8139",
+            "42.3022"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "铁岭市",
+          "city_code": "211200",
+          "station": "汇工街西",
+          "station_code": "2216A",
+          "aqi": "327",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "26",
+          "so2_index": "9",
+          "no2": "84",
+          "no2_index": "42",
+          "co": "1.8",
+          "co_index": "18",
+          "o3": "30",
+          "o3_index": "10",
+          "o3_8h": "8",
+          "o3_8h_index": "0",
+          "pm2_5": "277",
+          "pm2_5_index": "327",
+          "pm10": "340",
+          "pm10_index": "195",
+          "longitude": "123.8139",
+          "latitude": "42.3022",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.8831",
+            "42.2953"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "铁岭市",
+          "city_code": "211200",
+          "station": "水上乐园",
+          "station_code": "2217A",
+          "aqi": "211",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "51",
+          "so2_index": "17",
+          "no2": "84",
+          "no2_index": "42",
+          "co": "2.2",
+          "co_index": "22",
+          "o3": "22",
+          "o3_index": "7",
+          "o3_8h": "7",
+          "o3_8h_index": "0",
+          "pm2_5": "161",
+          "pm2_5_index": "211",
+          "pm10": "240",
+          "pm10_index": "145",
+          "longitude": "123.8831",
+          "latitude": "42.2953",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.8489",
+            "42.2864"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "铁岭市",
+          "city_code": "211200",
+          "station": "银州路东段",
+          "station_code": "2218A",
+          "aqi": "288",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "17",
+          "so2_index": "6",
+          "no2": "70",
+          "no2_index": "35",
+          "co": "1.5",
+          "co_index": "15",
+          "o3": "36",
+          "o3_index": "12",
+          "o3_8h": "21",
+          "o3_8h_index": "0",
+          "pm2_5": "238",
+          "pm2_5_index": "288",
+          "pm10": "269",
+          "pm10_index": "160",
+          "longitude": "123.8489",
+          "latitude": "42.2864",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "123.7153",
+            "42.2217"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "铁岭市",
+          "city_code": "211200",
+          "station": "金沙江路北",
+          "station_code": "2219A",
+          "aqi": "365",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "37",
+          "so2_index": "13",
+          "no2": "84",
+          "no2_index": "42",
+          "co": "2.4",
+          "co_index": "24",
+          "o3": "39",
+          "o3_index": "13",
+          "o3_8h": "12",
+          "o3_8h_index": "0",
+          "pm2_5": "315",
+          "pm2_5_index": "365",
+          "pm10": "323",
+          "pm10_index": "187",
+          "longitude": "123.7153",
+          "latitude": "42.2217",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "120.4439",
+            "41.5931"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "朝阳市",
+          "city_code": "211300",
+          "station": "西梁",
+          "station_code": "2220A",
+          "aqi": "97",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "238",
+          "so2_index": "63",
+          "no2": "44",
+          "no2_index": "22",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "40",
+          "o3_index": "13",
+          "o3_8h": "13",
+          "o3_8h_index": "0",
+          "pm2_5": "71",
+          "pm2_5_index": "95",
+          "pm10": "144",
+          "pm10_index": "97",
+          "longitude": "120.4439",
+          "latitude": "41.5931",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "120.4486",
+            "41.5672"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "朝阳市",
+          "city_code": "211300",
+          "station": "河畔小区",
+          "station_code": "2221A",
+          "aqi": "74",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "66",
+          "so2_index": "22",
+          "no2": "19",
+          "no2_index": "10",
+          "co": "1",
+          "co_index": "10",
+          "o3": "63",
+          "o3_index": "20",
+          "o3_8h": "18",
+          "o3_8h_index": "0",
+          "pm2_5": "53",
+          "pm2_5_index": "73",
+          "pm10": "97",
+          "pm10_index": "74",
+          "longitude": "120.4486",
+          "latitude": "41.5672",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "120.4247",
+            "41.5647"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "朝阳市",
+          "city_code": "211300",
+          "station": "八里堡",
+          "station_code": "2222A",
+          "aqi": "90",
+          "pollutions": "颗粒物(PM10)",
+          "so2": "157",
+          "so2_index": "51",
+          "no2": "37",
+          "no2_index": "19",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "38",
+          "o3_index": "12",
+          "o3_8h": "8",
+          "o3_8h_index": "0",
+          "pm2_5": "62",
+          "pm2_5_index": "84",
+          "pm10": "130",
+          "pm10_index": "90",
+          "longitude": "120.4247",
+          "latitude": "41.5647",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "120.3939",
+            "41.615"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "朝阳市",
+          "city_code": "211300",
+          "station": "农业园区",
+          "station_code": "2223A",
+          "aqi": "92",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "77",
+          "so2_index": "26",
+          "no2": "23",
+          "no2_index": "12",
+          "co": "1.1",
+          "co_index": "11",
+          "o3": "31",
+          "o3_index": "10",
+          "o3_8h": "16",
+          "o3_8h_index": "0",
+          "pm2_5": "68",
+          "pm2_5_index": "92",
+          "pm10": "125",
+          "pm10_index": "88",
+          "longitude": "120.3939",
+          "latitude": "41.615",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "120.9092",
+            "40.7136"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "葫芦岛市",
+          "city_code": "211400",
+          "station": "龙港区",
+          "station_code": "1607A",
+          "aqi": "113",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "159",
+          "so2_index": "52",
+          "no2": "34",
+          "no2_index": "17",
+          "co": "1.2",
+          "co_index": "12",
+          "o3": "75",
+          "o3_index": "24",
+          "o3_8h": "40",
+          "o3_8h_index": "0",
+          "pm2_5": "85",
+          "pm2_5_index": "113",
+          "pm10": "147",
+          "pm10_index": "99",
+          "longitude": "120.9092",
+          "latitude": "40.7136",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "120.8392",
+            "40.7514"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "葫芦岛市",
+          "city_code": "211400",
+          "station": "化工街",
+          "station_code": "1608A",
+          "aqi": "82",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "39",
+          "so2_index": "13",
+          "no2": "30",
+          "no2_index": "15",
+          "co": "1.9",
+          "co_index": "19",
+          "o3": "49",
+          "o3_index": "16",
+          "o3_8h": "22",
+          "o3_8h_index": "0",
+          "pm2_5": "60",
+          "pm2_5_index": "82",
+          "pm10": "78",
+          "pm10_index": "64",
+          "longitude": "120.8392",
+          "latitude": "40.7514",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "120.8478",
+            "40.715"
+          ]
+        },
+        "properties": {
+          "province": "辽宁省",
+          "city": "葫芦岛市",
+          "city_code": "211400",
+          "station": "新区",
+          "station_code": "1609A",
+          "aqi": "78",
+          "pollutions": "细颗粒物(PM2.5)",
+          "so2": "56",
+          "so2_index": "19",
+          "no2": "28",
+          "no2_index": "14",
+          "co": "0.2",
+          "co_index": "2",
+          "o3": "53",
+          "o3_index": "17",
+          "o3_8h": "24",
+          "o3_8h_index": "0",
+          "pm2_5": "57",
+          "pm2_5_index": "78",
+          "pm10": "67",
+          "pm10_index": "59",
+          "longitude": "120.8478",
+          "latitude": "40.715",
+          "pubtime": "2017-01-07 13:00:00"
+        }
+      }
+    
+  ]
+}
